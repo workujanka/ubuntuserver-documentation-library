@@ -13,7 +13,7 @@
 ##
 ## The goal is to provide clear, step-by-step guides that anyone can follow.
 
-# 📘 About This Project
+# About This Project
 ## This documentation library is designed to help beginners learn:
 
 - Linux fundamentals  
